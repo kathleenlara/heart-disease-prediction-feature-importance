@@ -8,4 +8,3 @@ Repository for training machine learning models, evaluating model performance, a
 ![presentation](https://github.com/kathleenlara/cancer-prediction-feature-importance/blob/main/presentation/info_page.007.jpeg)
 ![presentation](https://github.com/kathleenlara/cancer-prediction-feature-importance/blob/main/presentation/info_page.008.jpeg)
 ![presentation](https://github.com/kathleenlara/cancer-prediction-feature-importance/blob/main/presentation/info_page.009.jpeg)
-![presentation](https://github.com/kathleenlara/cancer-prediction-feature-importance/blob/main/presentation/info_page.010.jpeg)
